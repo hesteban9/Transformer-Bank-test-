@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Transformer Bank Master",
+  "description": "An interactive assessment tool for electrical professionals to test their knowledge on connecting standard transformer banks (Wye-Wye, Delta-Delta, Delta-Wye, Open Wye-Open Delta). Features a 70% pass requirement and detailed result analysis.",
+  "requestFramePermissions": []
+}
